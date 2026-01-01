@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website featuring an immersive day/night theme toggle with stunning visual effects and smooth animations.
 
-[![Live Demo](https://img.shields.io/badge/Status-Live-green)](vidhyanshu.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Status-Live-green)](https://vidhyanshu.vercel.app/)
 [![HTML](https://img.shields.io/badge/HTML-26.7%25-orange)](https://github.com/Viidhyanshu/Vidhyanshu_Portfolio.git)
 [![JavaScript](https://img.shields.io/badge/JavaScript-11.5%25-yellow)](https://github.com/Viidhyanshu/Vidhyanshu_Portfolio.git)
 [![CSS](https://img.shields.io/badge/CSS-61.8%25-blue)](hhttps://github.com/Viidhyanshu/Vidhyanshu_Portfolio.git)
